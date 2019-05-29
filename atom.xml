@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fang&#39;s Blog</title>
+  
+  <subtitle>9点睡，9点起，每天工作6小时。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yagao95.github.io/"/>
+  <updated>2019-05-24T15:45:58.058Z</updated>
+  <id>http://yagao95.github.io/</id>
+  
+  <author>
+    <name>Fang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>T2E</title>
+    <link href="http://yagao95.github.io/2019/05/24/2019-05-24-t2e/"/>
+    <id>http://yagao95.github.io/2019/05/24/2019-05-24-t2e/</id>
+    <published>2019-05-23T16:00:00.000Z</published>
+    <updated>2019-05-24T15:45:58.058Z</updated>
+    
+    <content type="html"><![CDATA[<p>今年元旦学Python时候现学现用做的一个小应用，比较粗糙，能够从法院判决书中提取相应信息生成excel的exe文件，但是比较繁琐,需要先把doc文件转为txt文件，然后再利用程序读取输出。<br><br>当时还不会用github,所以发在朋友圈。春节时无聊在家把它优化了，并把修改后的源代码上传到了github上：<a href="https://github.com/yagao95/lawdocs2excel" target="_blank" rel="noopener">lawdocs2excel</a> 。<br><br>目前已经可以直接读取docx文件，但是后续就没有继续更新了，准备等最近有空再优化下才发布exe程序。安装有python的同学可以直接下载脚本运行一下试试。<br><br><br><br>以下是当初的朋友圈原文</p><blockquote><p>大家新年好！<br>最近因为需要查阅大量判决书，并整理信息到excel，所以编了一个从法院判决书中提取相应信息生成excel的exe文件，<br>可以辅助做大批量的案例研究，有需要的可以下载 <a href="https://pan.baidu.com/s/1O21FAzY81h2BDAKAjHJ9nA" target="_blank" rel="noopener">百度网盘下载</a><br><br><br>P.S 最近才学编程，bug颇多，文本提取得也不太好，望各位见谅，就当帮我测试了。<br><br>有错误可以微信我，或者发我邮箱<a href="mailto:fangtao6793@163.com" target="_blank" rel="noopener">fangtao6793@163.com</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      今年元旦学Python时候现学现用做的一个小应用，比较粗糙，能够从法院判决书中提取相应信息生成excel的exe文件，但是比较繁琐。先发出来，等以后有时间再优化一下吧。
+    
+    </summary>
+    
+      <category term="编程之路" scheme="http://yagao95.github.io/categories/%E7%BC%96%E7%A8%8B%E4%B9%8B%E8%B7%AF/"/>
+    
+    
+      <category term="法院判决书" scheme="http://yagao95.github.io/tags/%E6%B3%95%E9%99%A2%E5%88%A4%E5%86%B3%E4%B9%A6/"/>
+    
+      <category term="Python" scheme="http://yagao95.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>法律导航</title>
+    <link href="http://yagao95.github.io/2019/05/23/2019-05-23-%E6%B3%95%E5%BE%8B%E5%AF%BC%E8%88%AA/"/>
+    <id>http://yagao95.github.io/2019/05/23/2019-05-23-法律导航/</id>
+    <published>2019-05-22T16:00:00.000Z</published>
+    <updated>2019-05-24T15:10:13.814Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="案例检索"><a href="#案例检索" class="headerlink" title="案例检索"></a>案例检索</h2><h3 id="官方"><a href="#官方" class="headerlink" title="官方"></a>官方</h3><p><a href="http://wenshu.court.gov.cn/" target="_blank" rel="noopener">中国裁判文书网</a>  |  <a href="https://anli.court.gov.cn/static/web/index.html#/index" target="_blank" rel="noopener">中国司法案例网</a>   |   <a href="http://www.court.gov.cn/zixun-gengduo-104.html" target="_blank" rel="noopener">最高法典型案例</a>  |  <a href="http://gongbao.court.gov.cn/" target="_blank" rel="noopener">最高法公报</a>  | </p><h3 id="第三方"><a href="#第三方" class="headerlink" title="第三方"></a>第三方</h3><p><a href="http://www.pkulaw.cn/Case/" target="_blank" rel="noopener">北大法宝案例库</a>  |  <a href="https://law.wkinfo.com.cn/" target="_blank" rel="noopener">威科先行</a>  |  <a href="https://www.itslaw.com/bj" target="_blank" rel="noopener">无讼案例</a>  |  <a href="https://www.jufaanli.com/" target="_blank" rel="noopener">聚法案例</a>  |  <a href="http://www.faxin.cn/index.aspx" target="_blank" rel="noopener">法信</a>  |  <a href="http://openlaw.cn/" target="_blank" rel="noopener">OpenLaw</a>  |  <a href="https://www.iphouse.cn/" target="_blank" rel="noopener">知产宝</a>  </p><h3 id="境外"><a href="#境外" class="headerlink" title="境外"></a>境外</h3><p><a href="https://caselaw.findlaw.com/" target="_blank" rel="noopener">美国案例与法典检索</a></p><h2 id="法律法规检索"><a href="#法律法规检索" class="headerlink" title="法律法规检索"></a>法律法规检索</h2><h3 id="官方-1"><a href="#官方-1" class="headerlink" title="官方"></a>官方</h3><p><a href="http://search.chinalaw.gov.cn/search2.html" target="_blank" rel="noopener">司法部法律法规数据库</a>  |  <a href="http://law.npc.gov.cn/FLFG/#" target="_blank" rel="noopener">全国人大法律法规信息库</a>  |  <a href="https://www.chinacourt.org/law.shtml" target="_blank" rel="noopener">中国法院网</a>  |</p><h3 id="第三方-1"><a href="#第三方-1" class="headerlink" title="第三方"></a>第三方</h3><p>  <a href="http://open.pkulaw.cn/" target="_blank" rel="noopener">北大法宝中国法律开放平台</a> |  <a href="http://www.pkulaw.cn/" target="_blank" rel="noopener">北大法宝法律数据库</a></p>]]></content>
+    
+    <summary type="html">
+    
+      建立一个自己的导航网页，持续更新ing
+    
+    </summary>
+    
+      <category term="网页导航" scheme="http://yagao95.github.io/categories/%E7%BD%91%E9%A1%B5%E5%AF%BC%E8%88%AA/"/>
+    
+    
+      <category term="导航" scheme="http://yagao95.github.io/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+      <category term="检索" scheme="http://yagao95.github.io/tags/%E6%A3%80%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yagao95.github.io/2019/05/19/hello-world/"/>
+    <id>http://yagao95.github.io/2019/05/19/hello-world/</id>
+    <published>2019-05-18T16:00:00.000Z</published>
+    <updated>2019-05-29T14:43:07.601Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post.<a id="more"></a><br>Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

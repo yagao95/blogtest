@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[T2E]]></title>
+    <url>%2F2019%2F05%2F24%2F2019-05-24-t2e%2F</url>
+    <content type="text"><![CDATA[今年元旦学Python时候现学现用做的一个小应用，比较粗糙，能够从法院判决书中提取相应信息生成excel的exe文件，但是比较繁琐,需要先把doc文件转为txt文件，然后再利用程序读取输出。当时还不会用github,所以发在朋友圈。春节时无聊在家把它优化了，并把修改后的源代码上传到了github上：lawdocs2excel 。目前已经可以直接读取docx文件，但是后续就没有继续更新了，准备等最近有空再优化下才发布exe程序。安装有python的同学可以直接下载脚本运行一下试试。以下是当初的朋友圈原文 大家新年好！最近因为需要查阅大量判决书，并整理信息到excel，所以编了一个从法院判决书中提取相应信息生成excel的exe文件，可以辅助做大批量的案例研究，有需要的可以下载 百度网盘下载P.S 最近才学编程，bug颇多，文本提取得也不太好，望各位见谅，就当帮我测试了。有错误可以微信我，或者发我邮箱fangtao6793@163.com]]></content>
+      <categories>
+        <category>编程之路</category>
+      </categories>
+      <tags>
+        <tag>法院判决书</tag>
+        <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[法律导航]]></title>
+    <url>%2F2019%2F05%2F23%2F2019-05-23-%E6%B3%95%E5%BE%8B%E5%AF%BC%E8%88%AA%2F</url>
+    <content type="text"><![CDATA[案例检索官方中国裁判文书网 | 中国司法案例网 | 最高法典型案例 | 最高法公报 | 第三方北大法宝案例库 | 威科先行 | 无讼案例 | 聚法案例 | 法信 | OpenLaw | 知产宝 境外美国案例与法典检索 法律法规检索官方司法部法律法规数据库 | 全国人大法律法规信息库 | 中国法院网 | 第三方 北大法宝中国法律开放平台 | 北大法宝法律数据库]]></content>
+      <categories>
+        <category>网页导航</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>检索</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F05%2F19%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post.Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
