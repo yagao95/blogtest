@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yagao95.github.io/"/>
-  <updated>2019-05-24T15:45:58.058Z</updated>
+  <updated>2019-05-31T06:47:36.199Z</updated>
   <id>http://yagao95.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>文档检索导航</title>
+    <link href="http://yagao95.github.io/2019/05/31/2019-05-31-%E6%96%87%E6%A1%A3%E6%A3%80%E7%B4%A2%E5%AF%BC%E8%88%AA/"/>
+    <id>http://yagao95.github.io/2019/05/31/2019-05-31-文档检索导航/</id>
+    <published>2019-05-30T16:00:00.000Z</published>
+    <updated>2019-05-31T06:47:36.199Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="中文"><a href="#中文" class="headerlink" title="中文"></a>中文</h3><p><a href="https://www.jiumodiary.com/" target="_blank" rel="noopener">鸠摩搜索</a> | <a href="http://cn.epubee.com/" target="_blank" rel="noopener">epubee</a> | <a href="http://www.iamtxt.com/" target="_blank" rel="noopener">iamtxt</a> | <a href="http://52skmy.com/" target="_blank" rel="noopener">四颗萌芽</a> | <a href="http://www.ireadweek.com/" target="_blank" rel="noopener">周读</a> | <a href="http://iask.sina.com.cn" target="_blank" rel="noopener">新浪爱问</a></p><h3 id="英文"><a href="#英文" class="headerlink" title="英文"></a>英文</h3><blockquote><p>以下粘贴自<a href="https://github.com/ouyangzhiping/awesome-cognitive-science" target="_blank" rel="noopener">欧阳志平的github</a></p><ul><li><a href="http://bookzz.org/" target="_blank" rel="noopener">Electronic library</a></li><li><a href="http://gen.lib.rus.ec/" target="_blank" rel="noopener">Library Genesis</a> ：如遇到IP限制，换用 <a href="http://lib.freescienceengineering.org/" target="_blank" rel="noopener">Library Genesis Project</a>、<a href="http://libgen.net/" target="_blank" rel="noopener">libgen</a></li><li><a href="http://bookza.org/" target="_blank" rel="noopener">bookos</a>与姐妹站点，如遇到IP限制，换用<a href="http://www.bookfinder.com/" target="_blank" rel="noopener">BookFinder.com</a>、<a href="http://en.bookfi.org/" target="_blank" rel="noopener">bookfi</a></li><li><a href="http://www.binsearch.info/" target="_blank" rel="noopener">Binsearch – Usenet search engine</a>与<a href="http://scrapetorrent.com/" target="_blank" rel="noopener">Torrent Search</a></li><li><a href="http://www.reddit.com/r/scholar" target="_blank" rel="noopener">Scholar</a></li></ul></blockquote><p>以上网站的姐妹站点，但侧重论文搜索：</p><ul><li>SCI-hub：<a href="http://www.sci-hub.cc/" target="_blank" rel="noopener">Sci-Hub: removing barriers in the way of science</a></li><li>杂志论文搜索是： <a href="http://libgen.org/scimag/" target="_blank" rel="noopener">Library Genesis: Scientfic Articles</a></li><li><a href="http://booksc.org/" target="_blank" rel="noopener">booksc</a></li><li><a href="http://www.deepdyve.com/" target="_blank" rel="noopener">DeepDyve - Read and Share from Thousands of the Top Scholarly Journals</a></li><li><a href="http://philpapers.org/advanced.html" target="_blank" rel="noopener">Advanced search - PhilPapers</a></li><li><a href="http://www.pdfgeni.com/index.php" target="_blank" rel="noopener">pdfgeni</a></li><li><a href="https://www.semanticscholar.org/" target="_blank" rel="noopener">Semantic Scholar</a>：新一代人工智能学术搜索引擎。</li></ul><p>教程参见：  </p><ul><li><a href="http://commonsenseatheism.com/?p=1404" target="_blank" rel="noopener">How to Get Academic Papers for Free</a></li><li><a href="http://lesswrong.com/lw/5me/scholarship_how_to_do_it_efficiently/" target="_blank" rel="noopener">Scholarship: How to Do It Efficiently - Less Wrong</a>  </li></ul>]]></content>
+    
+    <summary type="html">
+    
+      收集中文、外文文档搜索、下载的网站，持续更新ing。
+    
+    </summary>
+    
+      <category term="网页导航" scheme="http://yagao95.github.io/categories/%E7%BD%91%E9%A1%B5%E5%AF%BC%E8%88%AA/"/>
+    
+    
+      <category term="导航" scheme="http://yagao95.github.io/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+      <category term="检索" scheme="http://yagao95.github.io/tags/%E6%A3%80%E7%B4%A2/"/>
+    
+      <category term="文档" scheme="http://yagao95.github.io/tags/%E6%96%87%E6%A1%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>T2E</title>

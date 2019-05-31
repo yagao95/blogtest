@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[文档检索导航]]></title>
+    <url>%2F2019%2F05%2F31%2F2019-05-31-%E6%96%87%E6%A1%A3%E6%A3%80%E7%B4%A2%E5%AF%BC%E8%88%AA%2F</url>
+    <content type="text"><![CDATA[中文鸠摩搜索 | epubee | iamtxt | 四颗萌芽 | 周读 | 新浪爱问 英文 以下粘贴自欧阳志平的github Electronic library Library Genesis ：如遇到IP限制，换用 Library Genesis Project、libgen bookos与姐妹站点，如遇到IP限制，换用BookFinder.com、bookfi Binsearch – Usenet search engine与Torrent Search Scholar 以上网站的姐妹站点，但侧重论文搜索： SCI-hub：Sci-Hub: removing barriers in the way of science 杂志论文搜索是： Library Genesis: Scientfic Articles booksc DeepDyve - Read and Share from Thousands of the Top Scholarly Journals Advanced search - PhilPapers pdfgeni Semantic Scholar：新一代人工智能学术搜索引擎。 教程参见： How to Get Academic Papers for Free Scholarship: How to Do It Efficiently - Less Wrong]]></content>
+      <categories>
+        <category>网页导航</category>
+      </categories>
+      <tags>
+        <tag>导航</tag>
+        <tag>检索</tag>
+        <tag>文档</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[T2E]]></title>
     <url>%2F2019%2F05%2F24%2F2019-05-24-t2e%2F</url>
     <content type="text"><![CDATA[今年元旦学Python时候现学现用做的一个小应用，比较粗糙，能够从法院判决书中提取相应信息生成excel的exe文件，但是比较繁琐,需要先把doc文件转为txt文件，然后再利用程序读取输出。当时还不会用github,所以发在朋友圈。春节时无聊在家把它优化了，并把修改后的源代码上传到了github上：lawdocs2excel 。目前已经可以直接读取docx文件，但是后续就没有继续更新了，准备等最近有空再优化下才发布exe程序。安装有python的同学可以直接下载脚本运行一下试试。以下是当初的朋友圈原文 大家新年好！最近因为需要查阅大量判决书，并整理信息到excel，所以编了一个从法院判决书中提取相应信息生成excel的exe文件，可以辅助做大批量的案例研究，有需要的可以下载 百度网盘下载P.S 最近才学编程，bug颇多，文本提取得也不太好，望各位见谅，就当帮我测试了。有错误可以微信我，或者发我邮箱fangtao6793@163.com]]></content>
